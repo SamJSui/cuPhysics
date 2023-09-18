@@ -1,5 +1,6 @@
 # Project
-*/build/
+build/
+cuphysics/build/
 
 # IDE
 .vscode

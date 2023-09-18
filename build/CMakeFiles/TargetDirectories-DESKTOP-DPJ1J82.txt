@@ -1,6 +1,0 @@
-/mnt/d/OneDrive/cuPhysics/build/CMakeFiles/example.dir
-/mnt/d/OneDrive/cuPhysics/build/CMakeFiles/edit_cache.dir
-/mnt/d/OneDrive/cuPhysics/build/CMakeFiles/rebuild_cache.dir
-/mnt/d/OneDrive/cuPhysics/build/cuphysics/CMakeFiles/cuphysics.dir
-/mnt/d/OneDrive/cuPhysics/build/cuphysics/CMakeFiles/edit_cache.dir
-/mnt/d/OneDrive/cuPhysics/build/cuphysics/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/example.dir/examples/vector3_example.cpp.o -o example  cuphysics/cuphysics.a 
