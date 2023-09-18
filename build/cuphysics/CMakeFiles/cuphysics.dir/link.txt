@@ -1,0 +1,2 @@
+/usr/bin/ar qc cuphysics.a CMakeFiles/cuphysics.dir/src/vector3.cpp.o
+/usr/bin/ranlib cuphysics.a

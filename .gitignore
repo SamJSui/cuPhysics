@@ -1,3 +1,10 @@
+# Project
+*/build/
+
+# IDE
+.vscode
+
+# CUDA
 *.i
 *.ii
 *.gpu

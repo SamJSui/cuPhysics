@@ -1,0 +1,6 @@
+/mnt/c/Users/samue/OneDrive/cuPhysics/build/CMakeFiles/vector3_example.dir
+/mnt/c/Users/samue/OneDrive/cuPhysics/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/samue/OneDrive/cuPhysics/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/samue/OneDrive/cuPhysics/build/cuphysics/CMakeFiles/cuphysics.dir
+/mnt/c/Users/samue/OneDrive/cuPhysics/build/cuphysics/CMakeFiles/edit_cache.dir
+/mnt/c/Users/samue/OneDrive/cuPhysics/build/cuphysics/CMakeFiles/rebuild_cache.dir
